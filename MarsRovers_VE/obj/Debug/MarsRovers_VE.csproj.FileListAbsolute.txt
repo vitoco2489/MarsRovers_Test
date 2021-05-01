@@ -4,3 +4,10 @@ C:\Users\VictorEspinoza\source\repos\MarsRovers_VE\MarsRovers_VE\bin\Debug\MarsR
 C:\Users\VictorEspinoza\source\repos\MarsRovers_VE\MarsRovers_VE\obj\Debug\MarsRovers_VE.csproj.CoreCompileInputs.cache
 C:\Users\VictorEspinoza\source\repos\MarsRovers_VE\MarsRovers_VE\obj\Debug\MarsRovers_VE.exe
 C:\Users\VictorEspinoza\source\repos\MarsRovers_VE\MarsRovers_VE\obj\Debug\MarsRovers_VE.pdb
+C:\Users\VictorEspinoza\MarsRovers_Test\MarsRovers_VE\bin\Debug\MarsRovers_VE.exe.config
+C:\Users\VictorEspinoza\MarsRovers_Test\MarsRovers_VE\bin\Debug\MarsRovers_VE.exe
+C:\Users\VictorEspinoza\MarsRovers_Test\MarsRovers_VE\bin\Debug\MarsRovers_VE.pdb
+C:\Users\VictorEspinoza\MarsRovers_Test\MarsRovers_VE\obj\Debug\MarsRovers_VE.csprojAssemblyReference.cache
+C:\Users\VictorEspinoza\MarsRovers_Test\MarsRovers_VE\obj\Debug\MarsRovers_VE.csproj.CoreCompileInputs.cache
+C:\Users\VictorEspinoza\MarsRovers_Test\MarsRovers_VE\obj\Debug\MarsRovers_VE.exe
+C:\Users\VictorEspinoza\MarsRovers_Test\MarsRovers_VE\obj\Debug\MarsRovers_VE.pdb

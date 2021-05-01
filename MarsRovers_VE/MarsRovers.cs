@@ -22,7 +22,7 @@ namespace MarsRovers_VE
 
         public MarsRovers(string input)
         {
-
+            // We can do some validations in order to identify any typos 
             string[] data = input.Split(' ');
             xPosition = Convert.ToInt32(data[0]);
             yPosition = Convert.ToInt32(data[1]);
@@ -96,8 +96,11 @@ namespace MarsRovers_VE
 
             }
         }
-        public  void SendCommandRovers(string command)
-        {
+        public void SendCommandRovers(string command)
+        { 
+            // We can do some validations in order to identify any typos 
+
+
             foreach (char item in command.ToCharArray())
             {
                 switch (item)
