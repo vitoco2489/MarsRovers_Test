@@ -1,0 +1,17 @@
+C:\Users\VictorEspinoza\source\repos\MarsRovers_VE\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\VictorEspinoza\source\repos\MarsRovers_VE\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\VictorEspinoza\source\repos\MarsRovers_VE\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\VictorEspinoza\source\repos\MarsRovers_VE\UnitTest\bin\Debug\UnitTest.dll
+C:\Users\VictorEspinoza\source\repos\MarsRovers_VE\UnitTest\bin\Debug\UnitTest.pdb
+C:\Users\VictorEspinoza\source\repos\MarsRovers_VE\UnitTest\bin\Debug\MarsRovers_VE.exe
+C:\Users\VictorEspinoza\source\repos\MarsRovers_VE\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\VictorEspinoza\source\repos\MarsRovers_VE\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\VictorEspinoza\source\repos\MarsRovers_VE\UnitTest\bin\Debug\MarsRovers_VE.pdb
+C:\Users\VictorEspinoza\source\repos\MarsRovers_VE\UnitTest\bin\Debug\MarsRovers_VE.exe.config
+C:\Users\VictorEspinoza\source\repos\MarsRovers_VE\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\VictorEspinoza\source\repos\MarsRovers_VE\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\VictorEspinoza\source\repos\MarsRovers_VE\UnitTest\obj\Debug\UnitTest.csprojAssemblyReference.cache
+C:\Users\VictorEspinoza\source\repos\MarsRovers_VE\UnitTest\obj\Debug\UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\VictorEspinoza\source\repos\MarsRovers_VE\UnitTest\obj\Debug\UnitTest.csproj.CopyComplete
+C:\Users\VictorEspinoza\source\repos\MarsRovers_VE\UnitTest\obj\Debug\UnitTest.dll
+C:\Users\VictorEspinoza\source\repos\MarsRovers_VE\UnitTest\obj\Debug\UnitTest.pdb
